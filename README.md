@@ -25,7 +25,14 @@ Thanks!
 
 **Tool Found:** Nice tool for finding JavaScript event keycodes at [keycode.info](http://keycode.info/)
 
-
 ### Day 2: 26 March 2019
+
+**Thoughts:** Learned about Css transition & transform
+
+## Day 3: 27 March 2019
+
+**Thoughts:** Learned about Css Variables, NodeList, forEach method, Data set
+
+## Day 4: 28 March 2019
 
 **Thoughts:** Learned about Css transition & transform
