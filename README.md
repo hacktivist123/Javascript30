@@ -21,13 +21,13 @@ Thanks!
 
 ### Day 1: 26 March 2019
 
-**Thoughts:** Learned about key event, keycode, Data Attributes, Class List, Data keys.
+**Thoughts:** Learned about key event, keycode, Data Attributes, Class List, Data keys.🚀🚀
 
 **Tool Found:** Nice tool for finding JavaScript event keycodes at [keycode.info](http://keycode.info/)
 
 ### Day 2: 26 March 2019
 
-**Thoughts:** Learned about Css transition & transform
+**Thoughts:** Learned about Css transition & transform🚀🚀
 
 ## Day 3: 27 March 2019
 
@@ -35,4 +35,4 @@ Thanks!
 
 ## Day 4: 28 March 2019
 
-**Thoughts:** Learned about Css transition & transform
+**Thoughts:** Learned about Different Array methods (map, filter, reduce, sort), learned how to also use Sort() and reduce() more effectively.🚀🚀
