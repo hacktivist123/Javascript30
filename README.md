@@ -36,3 +36,7 @@ Thanks!
 ## Day 4: 28 March 2019
 
 **Thoughts:** Learned about Different Array methods (map, filter, reduce, sort), learned how to also use Sort() and reduce() more effectively.🚀🚀
+
+## Day 5: 29 March 2019
+
+**Thoughts:** Learned about a little bit of flexbox(flex containers, flex items), i also learnt about the cubic-beziers() property in CSS, I finally learned about how the includes() in javascript can help us some browser compatibility issues that has to do with spellings.🔥🔥
